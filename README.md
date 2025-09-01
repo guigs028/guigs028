@@ -5,7 +5,6 @@
   💻 Apaixonado por tecnologia e desenvolvimento web<br>
   🌍 Idiomas: Português (nativo), Inglês (B1/B2), Espanhol (C1)<br>
   🌐 <a href="https://guidentzien.vercel.app/" target="_blank"><strong>Meu portfólio pessoal</strong></a><br>
-  <img src="https://komarev.com/ghpvc/?username=guigs028&style=flat-square&color=blue" alt="visitantes"/>
 </p>
 
 ---
