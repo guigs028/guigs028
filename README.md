@@ -65,10 +65,10 @@
 
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
-| **[Au Pair Platform](https://github.com/guigs028/AuPairAlemanha)** | Platform connecting families and au pairs in Germany | React, Node.js | [🔗 View](https://github.com/guigs028/AuPairAlemanha) |
-| **[Politicians Expenses Tracker](https://github.com/guigs028/GastosDeputados)** | Government transparency tool tracking deputy expenses | Python, Data Analysis | [🔗 View](https://github.com/guigs028/GastosDeputados) |
-| **[Student Management System](https://github.com/guigs028/Sistema-Notas)** | Complete CRUD system for student registration and grades | Full Stack | [🔗 View](https://github.com/guigs028/Sistema-Notas) |
-| **[URL Shortener](https://github.com/guigs028/EncurtadorURL)** | Modern URL shortening service with analytics | Node.js, Express | [🔗 View](https://github.com/guigs028/EncurtadorURL) |
+| **[Au Pair Alemanha](https://github.com/guigs028/AuPairAlemanha)** | Platform connecting families and au pairs in Germany | React, Node.js | [🔗 View](https://github.com/guigs028/AuPairAlemanha) |
+| **[Transparencia Deputados](https://github.com/guigs028/GastosDeputados)** | Government transparency tool tracking deputy expenses | Python, Data Analysis | [🔗 View](https://github.com/guigs028/GastosDeputados) |
+| **[Sistema de Notas](https://github.com/guigs028/Sistema-Notas)** | Complete CRUD system for student registration and grades | Full Stack | [🔗 View](https://github.com/guigs028/Sistema-Notas) |
+| **[Encurtador de URL](https://github.com/guigs028/EncurtadorURL)** | Modern URL shortening service with analytics | Node.js, Express | [🔗 View](https://github.com/guigs028/EncurtadorURL) |
 
 </div>
 
