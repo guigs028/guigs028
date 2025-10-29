@@ -17,7 +17,7 @@
 ## 👨‍💻 About Me
 
 🎓 **Software Engineering Student** at PUCRS (4th semester)  
-💼 **Currently interning** as a Software Developer  
+💼 **Currently interning** as a Software Developer at DB Server
 🌍 **Languages:** Portuguese (Native), English (B1/B2), Spanish (C1)  
 🎯 **Focus:** Backend development with NestJS, C#/.NET, and fullstack solutions  
 💡 **Passionate about:** Clean code, scalable architectures, and innovative solutions  
