@@ -96,7 +96,7 @@
 - 🧠 I love solving complex problems with elegant solutions
 - 🌍 Fluent in 3 languages and always eager to learn more
 - 📖 Currently exploring Domain-Driven Design (DDD) patterns
-- ⚡ Fun fact: I started coding because I wanted to build my own games!
+- ⚡ Fun fact: I am Muay Thai Athlete
 
 ---
 
