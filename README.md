@@ -17,7 +17,7 @@
 ## 👨‍💻 About Me
 
 🎓 **Software Engineering Student** at PUCRS (4th semester)  
-💼 **Currently interning** as a Software Developer at DB Server
+💼 **Currently interning** as a Software Developer at DB Server  
 🌍 **Languages:** Portuguese (Native), English (B1/B2), Spanish (C1)  
 🎯 **Focus:** Backend development with NestJS, C#/.NET, and fullstack solutions  
 💡 **Passionate about:** Clean code, scalable architectures, and innovative solutions  
@@ -27,11 +27,10 @@
 <div align="center">
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -41,6 +40,8 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Backend & APIs
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -66,7 +67,7 @@
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
 | **[Au Pair Alemanha](https://github.com/guigs028/AuPairAlemanha)** | Platform connecting families and au pairs in Germany | React, Node.js | [🔗 View](https://github.com/guigs028/AuPairAlemanha) |
-| **[Transparencia Deputados](https://github.com/guigs028/GastosDeputados)** | Government transparency tool tracking deputy expenses | Python, Data Analysis | [🔗 View](https://github.com/guigs028/GastosDeputados) |
+| **[Transparencia Deputados](https://github.com/guigs028/GastosDeputados)** | Government transparency tool tracking deputy expenses | Data Analysis | [🔗 View](https://github.com/guigs028/GastosDeputados) |
 | **[Sistema de Notas](https://github.com/guigs028/Sistema-Notas)** | Complete CRUD system for student registration and grades | Full Stack | [🔗 View](https://github.com/guigs028/Sistema-Notas) |
 | **[Encurtador de URL](https://github.com/guigs028/EncurtadorURL)** | Modern URL shortening service with analytics | Node.js, Express | [🔗 View](https://github.com/guigs028/EncurtadorURL) |
 
@@ -113,3 +114,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=guigs028&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
+
